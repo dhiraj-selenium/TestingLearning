@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34875" started-at="2016-07-18T16:26:37Z" finished-at="2016-07-18T16:27:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34875" started-at="2016-07-18T16:26:37Z" finished-at="2016-07-18T16:27:12Z">
+      <class name="Amazon.Autoit">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:Amazon.Autoit@1f3ddb1]" name="BrowserLaunch" is-config="true" duration-ms="33619" started-at="2016-07-18T21:56:37Z" finished-at="2016-07-18T21:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="download()[pri:0, instance:Amazon.Autoit@1f3ddb1]" name="download" duration-ms="1228" started-at="2016-07-18T21:57:11Z" finished-at="2016-07-18T21:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- download -->
+      </class> <!-- Amazon.Autoit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

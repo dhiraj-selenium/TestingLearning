@@ -1,0 +1,2 @@
+Browser = FF
+URL = https://www.autoitscript.com/site/autoit/downloads
